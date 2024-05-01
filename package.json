@@ -1,0 +1,12 @@
+{
+  "name": "classificador-nivel-heroi",
+  "version": "1.0.0",
+  "description": "Atividade realizada para o bootcamp da DIO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "author": "viperluan",
+  "license": "ISC"
+}
